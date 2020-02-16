@@ -1,4 +1,4 @@
 # CiteSite
-An automated multi-source citation generator.
+Created in a 24 hour competion to help students.
 
-Utualize the UiPath Software and run.
+Utualize the UiPath Software to run.
